@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: POC Spring config
+  profiles:
+    active: dev,mysql
