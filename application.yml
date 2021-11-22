@@ -1,5 +1,4 @@
 spring:
-  application:
-    name: POC Spring config version 0.0.1
   profiles:
     active: dev,mysql
+spring.application.name: configuration-client

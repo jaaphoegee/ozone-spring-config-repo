@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: POC Spring configuration-client specific configuration
