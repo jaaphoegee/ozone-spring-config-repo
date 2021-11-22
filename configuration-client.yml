@@ -1,3 +1,4 @@
 spring:
   application:
     name: POC Spring configuration-client specific configuration
+my.greeting: I am a client

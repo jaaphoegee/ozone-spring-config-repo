@@ -1,4 +1,5 @@
 spring:
   profiles:
     active: dev,mysql
+my.greeting: I am a config server
 spring.application.name: configuration-client
