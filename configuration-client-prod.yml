@@ -1,2 +1,7 @@
 my:
   profile: PRODUCTION (from config server)
+menu:
+  catchOfTheDay: prod fish
+
+secret:
+  surprise: prod oliebollen
