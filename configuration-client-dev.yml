@@ -1,2 +1,7 @@
 my: 
   profile: DEVELOPMENT (from config server)
+
+menu:
+  catchOfTheDay: walvis
+secret:
+  surprise: oliebollen
