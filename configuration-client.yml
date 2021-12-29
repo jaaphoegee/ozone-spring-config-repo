@@ -1,2 +1,14 @@
 my.greeting:  I am a configuration client having specific information. for test tests
 restaurant.catchOfTheDay: sea bass
+
+# The properties below are stored in a Gitea repository with the name configuration-client.yml as part of the
+# docker-compose-cloud-configuration-server and will be retrieved via the configuration server.
+# When using the client locally without the configuration server, these can be uncommented.
+menu:
+  catchOfTheDay: codfish
+
+# The properties below are stored in a Vault as part of the docker-compose-cloud-configuration-server and will
+# be retrieved via the configuration server.
+# When using the client locally without the configuration server, these can be uncommented.
+secret:
+  surprise: cake with fireworks
