@@ -5,3 +5,5 @@ menu:
 
 secret:
   surprise: prod oliebollen
+
+dbuser: userFromConfigFile
