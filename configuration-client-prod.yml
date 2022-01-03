@@ -1,9 +1,9 @@
 my:
   profile: PRODUCTION (from config server)
 menu:
-  catchOfTheDay: prod wale
+  catchOfTheDay: whale
 
 secret:
-  surprise: prod oliebollen
+  surprise: oliebollen
 
 dbuser: userFromConfigFile
