@@ -6,4 +6,4 @@ menu:
 secret:
   surprise: oliebollen met rozijnen
 
-dbuser: userFromConfigFile
+# dbuser: userFromConfigFile
