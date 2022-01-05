@@ -3,6 +3,6 @@ my:
 menu:
   catchOfTheDay: a shrimp
 secret:
-  surprise: oliebollen met rozijnen
+  surprise: oliebollen met krenten
 
 dbuser: userFromConfigFile
