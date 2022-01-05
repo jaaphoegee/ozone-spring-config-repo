@@ -1,8 +1,7 @@
 my:
   profile: PRODUCTION (from config server)
 menu:
-  catchOfTheDay: whale
-
+  catchOfTheDay: a shrimp
 secret:
   surprise: oliebollen met rozijnen
 
